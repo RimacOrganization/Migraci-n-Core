@@ -1,0 +1,51 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+*.venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Compiled binaries or libraries
+*.so
+*.pyd
+*.dll
+*.exe
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Local development settings
+*.sqlite
+*.db
+*.ini
+
+# Dependency directories
+lib/
+lib64/
+bin/
+
+# Jupyter Notebook generated files
+.ipynb_checkpoints/
+
+# Compiled Python files from Cython
+cython*.c
+cython*.cpp
+
+# Coverage directory
+.coverage
+
+# Ignore local development files
+*.swp
+*~
